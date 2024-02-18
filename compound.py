@@ -24,14 +24,14 @@ case1 = (6000, 10, 3, 2)
 case2 = (2000, 12, 4, 5)
 case3 = (8000, 15, 10, 6)
 
-# answer = compound_interest(case1)
-# print("{:.2f}".format(answer))
+answer = compound_interest(case1)
+print("{:.2f}".format(answer))
 
-# answer = compound_interest(case2)
-# print("{:.2f}".format(answer))
+answer = compound_interest(case2)
+print("{:.2f}".format(answer))
 
-# answer = compound_interest(case3)
-# print("{:.2f}".format(answer))
+answer = compound_interest(case3)
+print("{:.2f}".format(answer))
 
 printResult(case1)
 printResult(case2)
